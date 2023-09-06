@@ -1,2 +1,2 @@
-# kaspes
-Simple web page by HTML and CSS
+# Landing Page
+Simple web page using HTML and CSS
